@@ -1,11 +1,5 @@
-<div style="border: 3px solid; height: 210px; border-radius: 27px">
-  <div style="width: calc(100% - 10px);
-            height: 200px;
-            position: relative;
-            top: 5px;
-            left: 5px;
-            border-radius: 20px;
-            background: linear-gradient(to left top, #e66465, #9198e5);">
+<div style="border: 3px solid; height: 210px;width:100%; border-radius: 27px">
+  <div style="width: calc(100% - 10px);height: 200px;position: relative;top: 5px;left: 5px;border-radius: 20px;background: linear-gradient(to left top, #e66465, #9198e5);">
     <img src="src/ISO_C++_Logo.svg" style="display: block; position: relative; height: 180px; top: 10px; left: calc(100% - 175px)">
     <div style="position: relative; left: 10px; bottom: 30px; font-size: 30px; font-weight: bold">Developer C++</div>
   </div>
