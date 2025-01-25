@@ -1,7 +1,3 @@
-<img src="./src/gif.gif" width=48px>
-
----
-
 ### _Languages_
 
 ![Static Badge](https://img.shields.io/badge/-C++17-6284ff?style=for-the-badge&logo=c%2b%2b&logoColor=black)![Static Badge](https://img.shields.io/badge/-java_script-e84173?style=for-the-badge&logo=JavaScript&logoColor=ffff00)![Static Badge](https://img.shields.io/badge/-html-9613a7?style=for-the-badge&logo=html5&logoColor=black)![Static Badge](https://img.shields.io/badge/-css-e5e81d?style=for-the-badge&logo=css3&logoColor=154a99)
